@@ -1,2 +1,5 @@
 Hello.
 Nice to meet you.
+bye-bye.
+Git is a distributed version control system.
+Git is free software.
